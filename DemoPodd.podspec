@@ -7,7 +7,7 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'DemoPod'
+  s.name             = 'DemoPodd'
   s.version          = '0.1.0'
   s.summary          = 'This pod prints names.'
 

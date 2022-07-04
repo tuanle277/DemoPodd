@@ -16,8 +16,8 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "6003F589195388D20070C39A"
                BuildableName = "DemoPod_Example.app"
-               BlueprintName = "DemoPod_Example"
-               ReferencedContainer = "container:DemoPod.xcodeproj">
+               BlueprintName = "DemoPodd_Example"
+               ReferencedContainer = "container:DemoPodd.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -27,6 +27,15 @@
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "6003F589195388D20070C39A"
+            BuildableName = "DemoPod_Example.app"
+            BlueprintName = "DemoPodd_Example"
+            ReferencedContainer = "container:DemoPodd.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
       <Testables>
          <TestableReference
             skipped = "NO">
@@ -34,22 +43,11 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "6003F5AD195388D20070C39A"
                BuildableName = "DemoPod_Tests.xctest"
-               BlueprintName = "DemoPod_Tests"
-               ReferencedContainer = "container:DemoPod.xcodeproj">
+               BlueprintName = "DemoPodd_Tests"
+               ReferencedContainer = "container:DemoPodd.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
-      <MacroExpansion>
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "6003F589195388D20070C39A"
-            BuildableName = "DemoPod_Example.app"
-            BlueprintName = "DemoPod_Example"
-            ReferencedContainer = "container:DemoPod.xcodeproj">
-         </BuildableReference>
-      </MacroExpansion>
-      <AdditionalOptions>
-      </AdditionalOptions>
    </TestAction>
    <LaunchAction
       buildConfiguration = "Debug"
@@ -67,12 +65,10 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "6003F589195388D20070C39A"
             BuildableName = "DemoPod_Example.app"
-            BlueprintName = "DemoPod_Example"
-            ReferencedContainer = "container:DemoPod.xcodeproj">
+            BlueprintName = "DemoPodd_Example"
+            ReferencedContainer = "container:DemoPodd.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
-      <AdditionalOptions>
-      </AdditionalOptions>
    </LaunchAction>
    <ProfileAction
       buildConfiguration = "Release"
@@ -86,8 +82,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "6003F589195388D20070C39A"
             BuildableName = "DemoPod_Example.app"
-            BlueprintName = "DemoPod_Example"
-            ReferencedContainer = "container:DemoPod.xcodeproj">
+            BlueprintName = "DemoPodd_Example"
+            ReferencedContainer = "container:DemoPodd.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

@@ -1,18 +1,18 @@
 {
   "name": "DemoPod",
   "version": "0.1.0",
-  "summary": "A short description of DemoPod.",
-  "description": "Demo pod",
-  "homepage": "https://github.com/91571142/DemoPod",
+  "summary": "This pod prints names.",
+  "description": "This is a Demo pod, there is nothing more important than a demo pod",
+  "homepage": "https://github.com/tuanle277/DemoPod.git",
   "license": {
-    "type": "MIT",
+    "type": "W3C",
     "file": "LICENSE"
   },
   "authors": {
-    "91571142": "tuanle_2025@depauw.edu"
+    "tuanle277": "tuanle_2025@depauw.edu"
   },
   "source": {
-    "git": "https://github.com/91571142/DemoPod.git",
+    "git": "https://github.com/tuanle277/DemoPod.git",
     "tag": "0.1.0"
   },
   "platforms": {
