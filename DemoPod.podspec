@@ -19,11 +19,11 @@ Pod::Spec.new do |s|
 
   s.description      = 'This is a Demo pod, there is nothing more important than a demo pod'
 
-  s.homepage         = 'https://github.com/91571142/DemoPod'
+  s.homepage         = 'https://github.com/tuanle277/DemoPod.git'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { '91571142' => 'tuanle_2025@depauw.edu' }
-  s.source           = { :git => 'https://github.com/91571142/DemoPod.git', :tag => s.version.to_s }
+  s.author           = { 'tuanle277' => 'tuanle_2025@depauw.edu' }
+  s.source           = { :git => 'https://github.com/tuanle277/DemoPod.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '10.0'
