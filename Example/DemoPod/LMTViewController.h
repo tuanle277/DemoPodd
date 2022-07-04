@@ -10,4 +10,6 @@
 
 @interface LMTViewController : UIViewController
 
+- (void) logMyName;
+
 @end

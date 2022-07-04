@@ -1,0 +1,31 @@
+{
+  "name": "DemoPod",
+  "version": "0.1.0",
+  "summary": "A short description of DemoPod.",
+  "description": "Demo pod",
+  "homepage": "https://github.com/91571142/DemoPod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "91571142": "tuanle_2025@depauw.edu"
+  },
+  "source": {
+    "git": "https://github.com/91571142/DemoPod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "DemoPod/Classes/**/*",
+  "frameworks": [
+    "UIKit",
+    "MapKit"
+  ],
+  "dependencies": {
+    "AFNetworking": [
+      "~> 2.3"
+    ]
+  }
+}
